@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Span{
+  
+  margin:0.5% auto;
+  height:50px;
+  width:30%;
+  /* border:1px solid #000; */
+  /* background-color:blue; */
+  color:#fff;
+}
+
+.tododata{
+  border-radius: 10px;
+  margin:1px;
+  height:90%;
+  width:70%;
+  border:1px solid rgb(248, 247, 247);
+  background-color: rgb(100, 232, 250);
+}
+.I{
+  
+   margin-top: -10.5%; 
+  margin-left: 83%;
+  height:90%;
+   width:70px;
+   border-radius: 15px;
+   border:1px solid #000;
+   background-color:rgb(238, 238, 241);
+   color:#fff;
+ }
+ .I i{
+   color:#000;
+   margin-top: 10px;
+   font-size: 30px;
+   justify-content:center;
+   align-items:center;
+   text-align: center;
+ }
+ .I:hover{
+   background-color:blueviolet;
+   color:#fff;
+ }
+
+
+.tododata h3{
+  margin-top: 1%;
+  justify-content:center;
+  text-align: start;
+  align-items:center;
+  color:#000;
+}
+
+input{
+
+ 
+  font-size:20px;
+  height:40px;
+  width:250px;
+  border-radius: 15px;
+  border:1px solid rgb(230, 23, 23);
+  background-color:rgb(247, 247, 247);
+  color:rgb(8, 8, 8);
+}
+.btn{
+  
+  margin: auto;
+  font-size: 20px;
+  margin-left: 5px;
+  height:45px;
+  width:70px;
+  border-radius: 15px;
+  border:1px solid #000;
+  background-color:rgb(9, 9, 10);color:#fff;
+}
+.btn:hover{
+  background-color:blue;
+  color:#fff;
+}
+
+.dilip button{
+  font-size: 20px;
+  margin-top:10px;
+  margin-right:5%;
+  height:35px;
+  width:90px;
+  border-radius: 10px;
+  background-color:#000;
+  color: #fff;
+  border: 1px solid #000;
+}
+.dilip button:hover{
+  background-color:rgb(243, 43, 210);
+ 
+}
